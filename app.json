@@ -7,7 +7,7 @@
   "env": {
       "BOT_TOKEN": {
       "description": "Your Bot token. Get from https://t.me/botfather",
-      "value": ""
+      "value": "1418519203:AAFuO2IWwtZU7cDCCwa8KF_kY2qG75_zRgc"
     },
     "SESSION_NAME": {
       "description": "Your Bot's username.",
@@ -16,32 +16,32 @@
     },
     "API_ID": {
       "description": "Your API_ID.  Refer project docs.",
-      "value": ""
+      "value": "2722224"
     },
     "API_HASH": {
       "description": "Your API_ID. Refer project docs.",
-      "value": ""
+      "value": "ed73235a355120eac379d077156e8b58"
     },
     "CLIENT_ID": {
       "description": "Your Google CLIENT_ID. Refer project docs.",
-      "value": ""
+      "value": "690548441174-g5naimir2kk1nf98ep2iklfctk8rsksr.apps.googleusercontent.com"
     },
     "CLIENT_SECRET": {
       "description": "Your Google CLIENT_SECRET. Refer project docs.",
-      "value": ""
+      "value": "2eGllinLpJMK2kCQGuQLmVeV"
     },
     "BOT_OWNER": {
       "description": "Telegram id of the bot owner.",
-      "value": ""
+      "value": "1233817369"
     },
     "AUTH_USERS": {
       "description": "Telegram id of authorised users, separated by comma",
-      "value": "",
+      "value": "1233817369",
       "required":false
     },
     "VIDEO_DESCRIPTION": {
       "description": "Any default description to be aded to the video.",
-      "value": "",
+      "value": "plz subscribe",
       "required":false
     },
     "VIDEO_CATEGORY": {
@@ -51,12 +51,12 @@
     },
     "VIDEO_TITLE_PREFIX": {
       "description": "Any prefix to be added to the video's title.",
-      "value": "",
+      "value": "haha",
       "required":false
     },
     "VIDEO_TITLE_SUFFIX": {
       "description": "Any suffix to be added to the video's title.",
-      "value": "",
+      "value": "huhu",
       "required":false
     },
     "UPLOAD_MODE": {
